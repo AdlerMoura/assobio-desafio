@@ -2,6 +2,7 @@
 
 Autor: Adler
 Título: Desafio Assobio
+Placa utilizada: Arduino Uno
 
 Funcionamento:
 Este projeto tem por objetivo coletar valores aleatórios de temperatura e, a partir disso, 
